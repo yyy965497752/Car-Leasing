@@ -12,5 +12,7 @@ namespace CoreMvc.Controllers.ycx_Controller
         {
             return View();
         }
+        
+
     }
 }
