@@ -11,7 +11,10 @@ namespace CoreApi.Controllers.ycx_Controller
     [ApiController]
     public class CarController : ControllerBase
     {
-        public 
+        public void tee()
+        {
+
+        }
 
     }
 }
